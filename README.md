@@ -1,3 +1,3 @@
 # odin-recipes
-![Recipes](https://file%2B.vscode-resource.vscode-cdn.net/Users/soykallo/Documents/repos/odin-recipes/images/image-readme.jpg?version%3D1708043935187)
+![Recipes](https://github.com/soykallo/odin-recipes/blob/main/images/image-readme.jpg)
 Repositorio de el primero Projecto del Curso Foundatios de Odin Project
